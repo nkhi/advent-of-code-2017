@@ -1,4 +1,4 @@
-#AoC Day 2 -- Spiral Memory
+#AoC Day 3 -- Spiral Memory
 
 inputt = 325489
 
