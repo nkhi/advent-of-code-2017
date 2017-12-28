@@ -31,23 +31,23 @@ Solutions to the daily problems from the Advent of Code 2017.
     <td><a href="https://github.com/nkhi/advent-of-code-2017/blob/master/day6.py">Click here</a></td>
   </tr>
   <tr>
-    <td>Day 7: <a href="https://adventofcode.com/2017/day7">Recursive Circus</a></td>
+    <td>Day 7: <a href="https://adventofcode.com/2017/day/7">Recursive Circus</a></td>
     <td><a href="https://github.com/nkhi/advent-of-code-2017/blob/master/day7.py">Click here</a></td>
   </tr>
   <tr>
-    <td>Day 8: <a href="https://adventofcode.com/2017/day8">I Heard You Like Registers</a></td>
+    <td>Day 8: <a href="https://adventofcode.com/2017/day/8">I Heard You Like Registers</a></td>
     <td><a href="https://github.com/nkhi/advent-of-code-2017/blob/master/day8.py">Click here</a></td>
   </tr>
   <tr>
-    <td>Day 9: <a href="https://adventofcode.com/2017/day9">Stream Processing</a></td>
+    <td>Day 9: <a href="https://adventofcode.com/2017/day/9">Stream Processing</a></td>
     <td><a href="https://github.com/nkhi/advent-of-code-2017/blob/master/day9.py">Click here</a></td>
   </tr>
   <tr>
-    <td>Day 10: <a href="https://adventofcode.com/2017/day10">Knot Hash</a></td>
+    <td>Day 10: <a href="https://adventofcode.com/2017/day/10">Knot Hash</a></td>
     <td><a href="https://github.com/nkhi/advent-of-code-2017/blob/master/day10.py">Click here</a></td>
   </tr>
   <tr>
-    <td>Day 11: <a href="https://adventofcode.com/2017/day11">Hex Ed</a></td>
+    <td>Day 11: <a href="https://adventofcode.com/2017/day/11">Hex Ed</a></td>
     <td><a href="https://github.com/nkhi/advent-of-code-2017/blob/master/day11.py">Click here</a></td>
   </tr>
 </table>
